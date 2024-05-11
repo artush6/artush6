@@ -1,9 +1,5 @@
-# 👋🏻 Hi Everyone, I'm Artush Aydinyan
-
-<hr>
-<h2>About me</h2>
-
-👨🏻‍🎓 | I am a self-taught programmer
+# 👋🏻 Hi Everyone,
+My name is Artush Aydinyan, I am a self-taught programmer
 
 ### My Skills
 
